@@ -11,7 +11,7 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" /> Node
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="20" /> Solidity
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20" /> C#
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" /> Plutus
+- <img src="https://i.ibb.co/y0J17t3/plutus.png" height="20" /> Plutus
 
 <h2>:nerd_face: Interests</h2>
 
