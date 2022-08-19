@@ -1,7 +1,7 @@
 <h2>:space_invader: About me</h2>
 
 - :briefcase: I'm currently working freelance on an arbitrage project
-- :money_with_wings: I really like to search and find new DeFi investment oportunities
+- :money_with_wings: I love DeFi
 - :older_man: I've started developing applications on Visual Basic 6
 
 <h2>🧰 Skills</h2>
@@ -21,17 +21,4 @@
 - AI
 - DeFi
 
-<!--
-**NicSuk/NicSuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=NicSuk&label=Profile%20views&color=ce9927&style=flat" alt="NicSuk" /> </p>
