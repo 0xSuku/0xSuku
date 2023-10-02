@@ -19,5 +19,6 @@
 - Decentralization
 - AI
 - DeFi
+- Fútbol
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=NicSuk&label=Profile%20views&color=ce9927&style=flat" alt="NicSuk" /> </p>
+<!--<p align="right"> <img src="https://komarev.com/ghpvc/?username=NicSuk&label=Profile%20views&color=ce9927&style=flat" alt="NicSuk" /> </p>-->
